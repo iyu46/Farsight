@@ -1,0 +1,13 @@
+{
+  "Author": "iyu46",
+  "Name": "Farsight",
+  "Punchline": "Change the colour of nametags, and pick out your friends from a crowd!",
+  "Description": "Personalize how you see the nametags of specific characters.\nUse /farsight to configure settings.",
+  "InternalName": "Farsight",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ]
+}
